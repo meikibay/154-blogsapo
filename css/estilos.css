@@ -90,3 +90,12 @@ margin: 3%;
 .destaque.first{
 	margin-left: 0;
 }
+
+input{
+	float: right;
+	margin: 7px;
+	width: 20%;
+	height: 60%;
+	text-align: right;
+	color: grey;
+}
