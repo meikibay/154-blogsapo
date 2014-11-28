@@ -1,3 +1,7 @@
+body{
+	background-color: #f8f8f8;
+}
+
 div{
 	border: 1px solid red;
 	margin-top: 5px;
@@ -26,23 +30,43 @@ width: 100%;
 height: 45px;
 float: left;
 font-size: 14px;
-display: table;
 clear: both;
-background: linear-gradient(to bottom, #f99a26 0%, #ef8526 150%)
+background: linear-gradient(to bottom, #f99a26 0%, #ef8526 150%);
 }
+
+.menu ul{
+margin: 0;
+padding: 0;
+}
+
 
 li{
 list-style: none none;
 float: left;
-margin: 2px;
 font-family: arial;
 height: 100%;
 width: 8%;
 text-decoration: none;
+display: block;
+padding: 0;
+margin: 0;
 }
 
 a{
 	text-decoration: none;
+}
+
+.btn{
+	color: #fff;
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: 40px;
+}
+
+.btn:hover{
+	background-color: red;
 }
 
 .banner{
