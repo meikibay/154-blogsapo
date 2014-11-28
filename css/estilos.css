@@ -1,5 +1,6 @@
 div{
 	border: 1px solid red;
+	margin-top: 5px;
 }
 
 
@@ -45,9 +46,14 @@ a{
 }
 
 .banner{
-
+height: 250px;
+width: 100%;
+float: left;
 }
 
 .destaque{
-
+width: 260px;
+height: 180px;
+float: left;
+margin: 27px;
 }
