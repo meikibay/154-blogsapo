@@ -82,6 +82,7 @@ width: 20%;
 height: 180px;
 float: left;
 margin: 3%;
+border-radius: 10px;
 }
 
 .destaque.last{
@@ -107,14 +108,14 @@ input{
 	height: 100%;
 }
 
-h2{
+.h2.ban{
 	position: absolute;
 	color: white;
 	top: 150px;
 	text-shadow: 0 0 4px #000;
 }
 
-h4{
+.h4.ban{
 	position: absolute;
 	color: white;
 	top: 200px;
@@ -124,4 +125,5 @@ h4{
 .dest{
 height: auto;
 width: 100%;
+border-radius: 10px;
 }
