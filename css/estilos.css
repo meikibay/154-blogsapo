@@ -37,6 +37,11 @@ margin: 2px;
 font-family: arial;
 height: 100%;
 width: 8%;
+text-decoration: none;
+}
+
+a{
+	text-decoration: none;
 }
 
 .banner{
