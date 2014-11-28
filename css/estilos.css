@@ -33,6 +33,7 @@ float: left;
 font-size: 14px;
 clear: both;
 background: linear-gradient(to bottom, #f99a26 0%, #ef8526 150%);
+border-radius: 5px;
 }
 
 .menu ul{
