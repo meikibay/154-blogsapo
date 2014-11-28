@@ -10,6 +10,7 @@ div{
 
 .home{
 	text-decoration: none;
+	color: black;
 }
 
 .main{
@@ -73,6 +74,7 @@ a{
 height: 250px;
 width: 100%;
 float: left;
+position: relative;
 }
 
 .destaque{
@@ -98,4 +100,28 @@ input{
 	height: 60%;
 	text-align: right;
 	color: grey;
+}
+
+.pub{
+	float: right;
+	height: 100%;
+}
+
+h2{
+	position: absolute;
+	color: white;
+	top: 150px;
+	text-shadow: 0 0 4px #000;
+}
+
+h4{
+	position: absolute;
+	color: white;
+	top: 200px;
+	text-shadow: 0 0 4px #000;
+}
+
+.dest{
+height: auto;
+width: 100%;
 }
