@@ -33,7 +33,10 @@ background: linear-gradient(to bottom, #f99a26 0%, #ef8526 150%)
 li{
 list-style: none none;
 float: left;
-margin: 1px;
+margin: 2px;
+font-family: arial;
+height: 100%;
+width: 8%;
 }
 
 .banner{
