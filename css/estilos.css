@@ -1,10 +1,10 @@
 body{
 	background-color: #f8f8f8;
+	font-family: Helvetica;
 }
 
 div{
-	border: 1px solid red;
-	margin-top: 5px;
+	margin-top: 40px;
 }
 
 
@@ -14,12 +14,12 @@ div{
 }
 
 .main{
-width: 95%;
+width: 90%;
 margin: 0 auto;
 }
 
 .logo{
-width: 210px;
+width: 215px;
 height: 43px;
 float: left;
 line-height: 10px;
@@ -140,8 +140,10 @@ border-radius: 5px;
 	width: 100%;
 	float: left;
 	background-color: white;
+	margin-top: 0px;
 }
 
-h4{
+
+.orange{
 	color: #d96125;
 }
