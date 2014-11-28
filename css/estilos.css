@@ -122,8 +122,22 @@ input{
 	text-shadow: 0 0 4px #000;
 }
 
+.midimg{
+	height: 50%;
+	width: 100%;
+	margin: 0;
+	float: left;
+}
+
 .dest{
 height: auto;
 width: 100%;
 border-radius: 10px;
+}
+
+.bottom{
+	height: 50%;
+	width: 100%;
+	float: left;
+	background-color: white;
 }
